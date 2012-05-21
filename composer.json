@@ -41,7 +41,13 @@
     },
     "description": "A component that assists you to safely user input variables coming into your application. It builds on top of PHP's filter extension and extends it by providing a more inituitive API.",
     "homepage": "https://github.com/zetacomponents",
-    "license": "apache2",
+    "license": "Apache-2.0",
     "name": "zetacomponents/user-input",
-    "type": "library"
+    "type": "library",
+        "require": {
+            "zetacomponents/base": "*"
+        },
+        "require-dev": {
+            "zetacomponents/unit-test": "*"
+        }
 }
