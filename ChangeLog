@@ -1,3 +1,12 @@
+1.5.0 - Friday 12 September 2014
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Fixed: Adjusted source headers of UserInput to Apache license.
+- Updated: Moving copyright information to NOTICE files.
+- Remove custom test runner.
+- Added composer.json.
+- Added Travis config.
+
 1.4 - Monday 05 January 2009
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
